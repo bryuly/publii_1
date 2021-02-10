@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jeep Journey",
+    "description": "",
+    "home_page_url": "https://bryuly.github.io/publii_1",
+    "feed_url": "https://bryuly.github.io/publii_1/feed.json",
+    "user_comment": "",
+    "icon": "https://bryuly.github.io/publii_1/media/website/il_794xN.2509874130_929w.jpg",
+    "author": {
+        "name": "Brad Yuly"
+    },
+    "items": [
+        {
+            "id": "https://bryuly.github.io/publii_1/this-is-a-test-post.html",
+            "url": "https://bryuly.github.io/publii_1/this-is-a-test-post.html",
+            "title": "This is a test post...",
+            "author": {
+                "name": "Brad Yuly"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-09T22:09:12-07:00",
+            "date_modified": "2021-02-09T22:09:12-07:00"
+        }
+    ]
+}

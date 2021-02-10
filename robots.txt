@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bryuly.github.io/publii_1/sitemap.xml
