@@ -3,12 +3,24 @@
     <title>Jeep Journey</title>
     <link href="https://bryuly.github.io/publii_1/feed.xml" rel="self" />
     <link href="https://bryuly.github.io/publii_1" />
-    <updated>2021-02-09T22:09:12-07:00</updated>
+    <updated>2021-02-09T22:18:51-07:00</updated>
     <author>
         <name>Brad Yuly</name>
     </author>
     <id>https://bryuly.github.io/publii_1</id>
 
+    <entry>
+        <title>Post #2...</title>
+        <author>
+            <name>Brad Yuly</name>
+        </author>
+        <link href="https://bryuly.github.io/publii_1/post-2.html"/>
+        <id>https://bryuly.github.io/publii_1/post-2.html</id>
+
+        <updated>2021-02-09T22:18:51-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>This is a test post...</title>
         <author>
